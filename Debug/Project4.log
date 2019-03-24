@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\הילה\source\repos\project4\main.c(233): warning C4013: 'IsNameValid' undefined; assuming extern returning int
+  ex5.c
+c:\users\הילה\source\repos\project4\ex5.c(481): warning C4028: formal parameter 1 different from declaration
+c:\users\הילה\source\repos\project4\ex5.c(484): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char ***'
+c:\users\הילה\source\repos\project4\ex5.c(508): warning C4047: 'function': 'char ***' differs in levels of indirection from 'char (*)[12][21]'
+c:\users\הילה\source\repos\project4\ex5.c(508): warning C4024: 'Sum': different types for formal and actual parameter 1
+c:\users\הילה\source\repos\project4\ex5.c(564): warning C4028: formal parameter 1 different from declaration
+c:\users\הילה\source\repos\project4\ex5.c(568): warning C4047: 'function': 'char (*)[12][21]' differs in levels of indirection from 'char ***'
+c:\users\הילה\source\repos\project4\ex5.c(568): warning C4024: 'funcName': different types for formal and actual parameter 1
+  Generating Code...
+  Project4.vcxproj -> C:\Users\הילה\source\repos\Project4\Debug\Project4.exe
